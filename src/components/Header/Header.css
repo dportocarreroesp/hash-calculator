@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  background-color: black;
+  height: 3.5em;
+}
+
+.header-item {
+  font-family: 'Roboto';
+  font-size: 1.5em;
+  margin-left: 1em;
+  margin-right: 1em;
+  color: white;
+}
