@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hash-calculator/static/css/main.084a8378.chunk.css",
+    "main.js": "/hash-calculator/static/js/main.e288c6fe.chunk.js",
+    "main.js.map": "/hash-calculator/static/js/main.e288c6fe.chunk.js.map",
+    "runtime-main.js": "/hash-calculator/static/js/runtime-main.c67765aa.js",
+    "runtime-main.js.map": "/hash-calculator/static/js/runtime-main.c67765aa.js.map",
+    "static/js/2.0964fac7.chunk.js": "/hash-calculator/static/js/2.0964fac7.chunk.js",
+    "static/js/2.0964fac7.chunk.js.map": "/hash-calculator/static/js/2.0964fac7.chunk.js.map",
+    "index.html": "/hash-calculator/index.html",
+    "static/css/main.084a8378.chunk.css.map": "/hash-calculator/static/css/main.084a8378.chunk.css.map",
+    "static/js/2.0964fac7.chunk.js.LICENSE.txt": "/hash-calculator/static/js/2.0964fac7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c67765aa.js",
+    "static/js/2.0964fac7.chunk.js",
+    "static/css/main.084a8378.chunk.css",
+    "static/js/main.e288c6fe.chunk.js"
+  ]
+}
